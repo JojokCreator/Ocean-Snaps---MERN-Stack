@@ -5,5 +5,5 @@ command = "npm run build"
 
 [[redirects]]
 from = "/*"
-to = "/index.html"status = cd200
+to = "/index.html"status = 200
 
